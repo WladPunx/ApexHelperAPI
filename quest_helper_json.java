@@ -159,6 +159,14 @@
 
 
 
+{
+	"type" : "hero",
+	"name" : "Catalyst",
+	"url_img" : "https://raw.githubusercontent.com/WladPunx/ApexHelperAPI/master/catalist.png"
+},
+
+
+
 
 
 
