@@ -39,7 +39,11 @@
 	"url_img" : "https://raw.githubusercontent.com/WladPunx/ApexHelperAPI/master/maggie.png"
 },
 
-
+{
+	"type" : "hero",
+	"name" : "Ballistic",
+	"url_img" : "https://raw.githubusercontent.com/WladPunx/ApexHelperAPI/master/balistic.png"
+},
 
 
 
@@ -65,12 +69,6 @@
 	"type" : "hero",
 	"name" : "Wraith",
 	"url_img" : "https://raw.githubusercontent.com/WladPunx/ApexHelperAPI/master/wraith.png"
-},
-
-{
-	"type" : "hero",
-	"name" : "Mirage",
-	"url_img" : "https://raw.githubusercontent.com/WladPunx/ApexHelperAPI/master/mirage.png"
 },
 
 
@@ -154,6 +152,12 @@
 	"type" : "hero",
 	"name" : "Lifeline",
 	"url_img" : "https://raw.githubusercontent.com/WladPunx/ApexHelperAPI/master/lifeline.png"
+},
+
+{
+	"type" : "hero",
+	"name" : "Mirage",
+	"url_img" : "https://raw.githubusercontent.com/WladPunx/ApexHelperAPI/master/mirage.png"
 },
 
 {
