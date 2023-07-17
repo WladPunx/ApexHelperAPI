@@ -1,5 +1,5 @@
 {
-	"versionCode" : 7,
-	"versionName" : "4.1.7",
-	"url": "https://github.com/WladPunx/ApexHelperAPI/releases/tag/v.4.1.7"
+	"versionCode" : 8,
+	"versionName" : "5.0.8",
+	"url": "https://github.com/WladPunx/ApexHelperAPI/releases/tag/v.5.0.8"
 }
