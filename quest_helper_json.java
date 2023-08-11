@@ -17,12 +17,6 @@
 
 {
 	"type" : "hero",
-	"name" : "Revenant",
-	"url_img" : "https://raw.githubusercontent.com/WladPunx/ApexHelperAPI/master/revenant_2.png"
-},
-
-{
-	"type" : "hero",
 	"name" : "Fuse",
 	"url_img" : "https://raw.githubusercontent.com/WladPunx/ApexHelperAPI/master/fuse.png"
 },
@@ -76,6 +70,12 @@
 	"type" : "hero",
 	"name" : "Octane",
 	"url_img" : "https://raw.githubusercontent.com/WladPunx/ApexHelperAPI/master/octane.png"
+},
+
+{
+	"type" : "hero",
+	"name" : "Revenant",
+	"url_img" : "https://raw.githubusercontent.com/WladPunx/ApexHelperAPI/master/revenant_2.png"
 },
 
 {
