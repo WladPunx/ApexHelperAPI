@@ -18,7 +18,7 @@
 {
 	"type" : "hero",
 	"name" : "Revenant",
-	"url_img" : "https://raw.githubusercontent.com/WladPunx/ApexHelperAPI/master/revenant.png"
+	"url_img" : "https://raw.githubusercontent.com/WladPunx/ApexHelperAPI/master/revenant_2.png"
 },
 
 {
