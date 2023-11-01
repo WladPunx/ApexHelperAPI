@@ -172,6 +172,13 @@
 	"url_img" : "https://raw.githubusercontent.com/WladPunx/ApexHelperAPI/master/newcastle.png"
 },
 
+{
+	"type" : "hero",
+	"name" : "Conduit",
+	"url_img" : "https://raw.githubusercontent.com/WladPunx/ApexHelperAPI/master/conduit.png"
+},
+
+
 
 
 
