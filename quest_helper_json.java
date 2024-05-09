@@ -90,6 +90,13 @@
 	"url_img" : "https://raw.githubusercontent.com/WladPunx/ApexHelperAPI/master/valkyri.png"
 },
 
+{
+	"type" : "hero",
+	"name" : "Alter",
+	"url_img" : "https://raw.githubusercontent.com/WladPunx/ApexHelperAPI/master/alter.png"
+},
+
+
 
 
 
